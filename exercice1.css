@@ -1,0 +1,29 @@
+body {
+   font-family:Arial, Helvetica, sans-serif;
+   border: 10px solid black;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-bottom: 15px;
+}
+
+#container {
+text-align: center;
+}
+
+p {
+   border: 5px solid black;
+   padding: 20px;
+}
+
+ol {
+ padding-top: 10px;
+}
+
+li {
+padding-top: 5px;
+}
+
+::marker {
+    margin-right: 5px;
+    color: red;
+}
